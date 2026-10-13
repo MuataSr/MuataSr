@@ -35,7 +35,7 @@ The stacks I reach for: Python for agent work, llama.cpp / llama-server for loca
 
 - Website: [mu2.solutions](https://mu2.solutions)
 - Hugging Face: [mu2solutions](https://huggingface.co/mu2solutions)
-- Email: mu2solutions@proton.me
+- Email: muata@mu2.solutions
 
 ---
 
