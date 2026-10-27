@@ -18,9 +18,15 @@ One rule runs through everything here. AI that people can inspect, run themselve
 
 Both study apps are open on a split licence: Apache-2.0 for the code, CC BY-NC-SA 4.0 for the content. No accounts, no trial, no premium tier.
 
+## Client work
+
+Not everything here is open source. I also build and ship systems for other people.
+
+**[O.R.D.E.R. Platform](https://nobottlenecks.com)**, built for Re-View Business Strategies, Inc., is a live subscription product that helps founder-led businesses move from founder-dependent to systems-driven. Members get a guided program, a course library and a build-a-tool path on three plans from $49 to $129 a month. Delivered end to end: the application, billing and member accounts, the course content, and the marketing site that sells it.
+
 ## How I work
 
-Self-hosted and local first. I run quantized open models on consumer AMD hardware and keep a growing set of GGUF builds on Hugging Face for people who want to run them locally: [huggingface.co/mu2solutions](https://huggingface.co/mu2solutions).
+Self-hosted and local first. I run quantized open models on consumer AMD hardware and publish the GGUF builds for anyone who wants to run them locally. Five of those builds (Molmo2, olmOCR, Tulu 3.1) have passed 1,500 downloads: [huggingface.co/mu2solutions](https://huggingface.co/mu2solutions).
 
 The stacks I reach for: Python for agent work, llama.cpp / llama-server for local inference, Granite and OLMo when the licence has to be bulletproof, and whatever harness lets the model finish the job.
 
