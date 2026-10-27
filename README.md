@@ -16,7 +16,7 @@ One rule runs through everything here. AI that people can inspect, run themselve
 | **[CareKeeper](https://github.com/MuataSr/carekeeper)** | Local-first toolkit for keeping an older family member's computer safe and supported, without handing their data to a cloud service. |
 | **[QuickCite](https://github.com/MuataSr/quickcite)** | Chrome extension that saves quotes from the web with correctly formatted MLA, APA, or Chicago citations. |
 
-Both study apps are open on a split licence: Apache-2.0 for the code, CC BY-NC-SA 4.0 for the content. No accounts, no trial, no premium tier.
+Both study apps are open on a split license: Apache-2.0 for the code, CC BY-NC-SA 4.0 for the content. No accounts, no trial, no premium tier.
 
 ## Client work
 
@@ -28,7 +28,7 @@ Not everything here is open source. I also build and ship systems for other peop
 
 Self-hosted and local first. I run quantized open models on consumer AMD hardware and publish the GGUF builds for anyone who wants to run them locally. Five of those builds (Molmo2, olmOCR, Tulu 3.1) have passed 1,500 downloads: [huggingface.co/mu2solutions](https://huggingface.co/mu2solutions).
 
-The stacks I reach for: Python for agent work, llama.cpp / llama-server for local inference, Granite and OLMo when the licence has to be bulletproof, and whatever harness lets the model finish the job.
+The stacks I reach for: Python for agent work, llama.cpp / llama-server for local inference, Granite and OLMo when the license has to be bulletproof, and whatever harness lets the model finish the job.
 
 ## Background
 
